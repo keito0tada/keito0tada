@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Keito Tada.
-I'm a master's student in Institute of Science Tokyo.
+I'm in my first year of a master's program in computer science at Institute of Science Tokyo.
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keito0tada&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
