@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Keito Tada.
-I'm in my first year of a master's program in computer science at Institute of Science Tokyo.
+My name is Keito Tada.<br/>
+I'm in my first year of a master's program in computer science at Institute of Science Tokyo.<br/><br/>
+[Homepage](https://keito0tada.github.io/)
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keito0tada&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
